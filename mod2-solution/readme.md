@@ -8,4 +8,5 @@ notable skills used:
 - floating elements and relative positioning
 - styling borders, colors, margin, and padding
 
+this folder is available as a github page to view project: https//ggneilc.github.io/john-hopkins-coursera/mod2-solution 
 
