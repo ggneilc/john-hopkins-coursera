@@ -19,6 +19,7 @@ h1 {
 
 #chicken, #beef, #sushi {
   float:right;
+  position: relative;
   width: 30%;
   text-align: center;
   border: solid 1px black;
